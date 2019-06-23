@@ -1,4 +1,4 @@
-package com.simple.rest.api.simpleRestApi.com.simple.rest.api.simpleRestApi.service;
+package com.simple.rest.api.simpleRestApi.services;
 
 public class PostCountry {
 

@@ -1,6 +1,6 @@
-package com.simple.rest.api.simpleRestApi.com.simple.rest.api.simpleRestApi.service;
+package com.simple.rest.api.simpleRestApi.services;
 
-import com.simple.rest.api.simpleRestApi.com.simple.rest.api.simpleRestApi.service.PostCountry;
+import com.simple.rest.api.simpleRestApi.services.PostCountry;
 import org.json.JSONObject;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.web.bind.annotation.RequestMapping;
